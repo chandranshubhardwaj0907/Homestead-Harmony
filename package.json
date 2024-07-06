@@ -1,0 +1,15 @@
+{
+  "name": "chandranshu-farm",
+  "version": "1.0.0",
+  "description": "learning nodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "slugify": "^1.6.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
